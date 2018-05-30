@@ -2,7 +2,7 @@
 
 ## Contents
 * [link](#Template) 
-* [link](#Template) 
+* [link](#Checking correctness of image opening) 
 
 ### __Template__
 #### Name:
@@ -16,7 +16,7 @@ idleness
 
 ### __Checking correctness of image opening__
 #### Name:
-fimgchk.py
+[fimgchk.py](fimgchk.py)
 #### Task
 Some images have troubles due coding. So such images are not suitable for further processing.
 This script check coding correctness and print results/copy to other folder/move to other folder.
