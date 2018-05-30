@@ -1,8 +1,7 @@
 # System
 
 ## Contents
-* [link](#Template) 
-* [link](#Checking correctness of image opening) 
+* [link](#tst) 
 
 ### __Template__
 #### Name:
@@ -27,3 +26,4 @@ os, sys, skimage, shutil, argparse
 Try to open with skimage and catch exceptions. 
 This script is first use of argparse and I tried to do something like good module.
 
+#tst
