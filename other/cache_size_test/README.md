@@ -1,5 +1,5 @@
 # Processing speed - processing block size dependency analysis
-##(Fast test realization. Needs revision)
+## (Fast test realization. Needs revision)
 
 * Windows system cache-size extraction by system call
 * Some action run-time calculation
